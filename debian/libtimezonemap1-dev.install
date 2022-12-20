@@ -1,0 +1,4 @@
+usr/lib/*/libtimezonemap.so
+usr/share/gir-1.0
+usr/include
+usr/lib/*/pkgconfig
